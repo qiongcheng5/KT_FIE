@@ -1,0 +1,2193 @@
+{
+    "文件系统": {
+        "name": "文件系统",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据处理与编程知识"
+        ]
+    },
+    "合同法": {
+        "name": "合同法",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "合同法知识"
+        ]
+    },
+    "热力学与化学反应": {
+        "name": "热力学与化学反应",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "二阶张量": {
+        "name": "二阶张量",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "计算机与信息系统相关术语": {
+        "name": "计算机与信息系统相关术语",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "树结构与算法": {
+        "name": "树结构与算法",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "算法优化与分析"
+        ]
+    },
+    "电路设计与分析": {
+        "name": "电路设计与分析",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "类型分类": {
+        "name": "类型分类",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "损伤类型",
+            "结构类型"
+        ],
+        "parents": []
+    },
+    "建筑用地使用权": {
+        "name": "建筑用地使用权",
+        "question_count": 49,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "法律与政治制度"
+        ]
+    },
+    "研究设计": {
+        "name": "研究设计",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组织与评估设计"
+        ]
+    },
+    "经济发展与增长": {
+        "name": "经济发展与增长",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "经济体系与发展"
+        ]
+    },
+    "结构类型": {
+        "name": "结构类型",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "类型分类"
+        ]
+    },
+    "运算放大器与电路设计": {
+        "name": "运算放大器与电路设计",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "电学概念",
+            "电子学",
+            "放大电路设计",
+            "电路设计与分析"
+        ],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "材料科学与工程": {
+        "name": "材料科学与工程",
+        "question_count": 59,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "生物与自然科学"
+        ]
+    },
+    "创业知识": {
+        "name": "创业知识",
+        "question_count": 41,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "微课学习策略"
+        ]
+    },
+    "运动饮食": {
+        "name": "运动饮食",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "损伤类型": {
+        "name": "损伤类型",
+        "question_count": 5,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "类型分类"
+        ]
+    },
+    "随机变量及其性质": {
+        "name": "随机变量及其性质",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "化学与物理性质"
+        ]
+    },
+    "算法优化与分析": {
+        "name": "算法优化与分析",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "算法",
+            "树结构与算法"
+        ],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "法律责任": {
+        "name": "法律责任",
+        "question_count": 51,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "法律与责任"
+        ]
+    },
+    "投资收益率": {
+        "name": "投资收益率",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "经济学概念"
+        ]
+    },
+    "尺寸测量": {
+        "name": "尺寸测量",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "物权法律关系": {
+        "name": "物权法律关系",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "土地使用权与抵押权",
+            "物权与权利"
+        ],
+        "parents": [
+            "法律与政治制度"
+        ]
+    },
+    "力学理论": {
+        "name": "力学理论",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "弹性力学",
+            "物理学"
+        ],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "概念框架": {
+        "name": "概念框架",
+        "question_count": 24,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "中国古代文化"
+        ]
+    },
+    "商业模式": {
+        "name": "商业模式",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "商业与产业"
+        ]
+    },
+    "热力学理论": {
+        "name": "热力学理论",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "电学概念": {
+        "name": "电学概念",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "应变场": {
+        "name": "应变场",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "阶次概念": {
+        "name": "阶次概念",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "计算机系统管理": {
+        "name": "计算机系统管理",
+        "question_count": 26,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "生物与环境设计": {
+        "name": "生物与环境设计",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "植物景观与设计",
+            "泌尿系统与代谢疾病"
+        ],
+        "parents": []
+    },
+    "真实性评价指标": {
+        "name": "真实性评价指标",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育理论与实践"
+        ]
+    },
+    "性质与特性": {
+        "name": "性质与特性",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "化学与物理性质"
+        ]
+    },
+    "气体性质": {
+        "name": "气体性质",
+        "question_count": 47,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "化学与物理性质"
+        ]
+    },
+    "国际关系与协议": {
+        "name": "国际关系与协议",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "反馈": {
+        "name": "反馈",
+        "question_count": 129,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育理论与实践"
+        ]
+    },
+    "合同法基本概念": {
+        "name": "合同法基本概念",
+        "question_count": 15,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "合同法知识"
+        ]
+    },
+    "植物景观与设计": {
+        "name": "植物景观与设计",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "生物与环境设计"
+        ]
+    },
+    "概率分布函数": {
+        "name": "概率分布函数",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "级数与收敛性": {
+        "name": "级数与收敛性",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "微课学习策略": {
+        "name": "微课学习策略",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "学习方法与策略",
+            "创业知识"
+        ],
+        "parents": [
+            "教育研究与实践"
+        ]
+    },
+    "科学理论与方法": {
+        "name": "科学理论与方法",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "热力学理论",
+            "方程理论",
+            "平方试探策略",
+            "函数理论",
+            "偏差与异常分析",
+            "电学原理",
+            "数学理论",
+            "力学理论",
+            "概率分布函数"
+        ],
+        "parents": []
+    },
+    "信息技术与管理": {
+        "name": "信息技术与管理",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "数据处理与分析",
+            "算法设计与应用",
+            "急救与应急管理",
+            "算法优化与分析",
+            "运算放大器与电路设计",
+            "计算机系统管理",
+            "服务平台管理",
+            "计算机与信息系统相关术语"
+        ],
+        "parents": []
+    },
+    "法律与政治制度": {
+        "name": "法律与政治制度",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "建筑用地使用权",
+            "合同法知识",
+            "物权法律关系"
+        ],
+        "parents": []
+    },
+    "财经报道与传播": {
+        "name": "财经报道与传播",
+        "question_count": 13,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "约束与优先级管理": {
+        "name": "约束与优先级管理",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "白酒评鉴知识": {
+        "name": "白酒评鉴知识",
+        "question_count": 40,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "教育理论与实践": {
+        "name": "教育理论与实践",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "真实性评价指标",
+            "反馈"
+        ],
+        "parents": [
+            "教育研究与实践"
+        ]
+    },
+    "文化艺术": {
+        "name": "文化艺术",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "个性化与文化适应",
+            "茶文化"
+        ],
+        "parents": [
+            "中东与中国历史政治研究"
+        ]
+    },
+    "教育研究与实践": {
+        "name": "教育研究与实践",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "信息检索技术",
+            "多媒体与技术应用",
+            "微课学习策略",
+            "课程理论与实践",
+            "教育理论与实践"
+        ],
+        "parents": []
+    },
+    "轴测图与轴点策略": {
+        "name": "轴测图与轴点策略",
+        "question_count": 2,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "偏差与异常分析": {
+        "name": "偏差与异常分析",
+        "question_count": 23,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "土地使用权与抵押权": {
+        "name": "土地使用权与抵押权",
+        "question_count": 21,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "物权法律关系"
+        ]
+    },
+    "物权与权利": {
+        "name": "物权与权利",
+        "question_count": 41,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "物权法律关系"
+        ]
+    },
+    "算子理论": {
+        "name": "算子理论",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "逻辑与概率理论"
+        ]
+    },
+    "多媒体与技术应用": {
+        "name": "多媒体与技术应用",
+        "question_count": 33,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育研究与实践"
+        ]
+    },
+    "中国历史": {
+        "name": "中国历史",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "中东与中国历史政治研究"
+        ]
+    },
+    "循证医学与流行病学": {
+        "name": "循证医学与流行病学",
+        "question_count": 29,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "生物与自然科学"
+        ]
+    },
+    "信息检索技术": {
+        "name": "信息检索技术",
+        "question_count": 6,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育研究与实践"
+        ]
+    },
+    "函数理论": {
+        "name": "函数理论",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "服务平台管理": {
+        "name": "服务平台管理",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "设计领域": {
+        "name": "设计领域",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "组织与评估设计"
+        ]
+    },
+    "数学期望": {
+        "name": "数学期望",
+        "question_count": 10,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "学习方法与策略": {
+        "name": "学习方法与策略",
+        "question_count": 4,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "微课学习策略"
+        ]
+    },
+    "手表": {
+        "name": "手表",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "PHP编程知识": {
+        "name": "PHP编程知识",
+        "question_count": 95,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "编程知识"
+        ]
+    },
+    "自由与能量": {
+        "name": "自由与能量",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "经济活动": {
+        "name": "经济活动",
+        "question_count": 25,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "经济学概念"
+        ]
+    },
+    "体温调节": {
+        "name": "体温调节",
+        "question_count": 12,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "数学理论": {
+        "name": "数学理论",
+        "question_count": 75,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "弹性力学": {
+        "name": "弹性力学",
+        "question_count": 38,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "力学理论"
+        ]
+    },
+    "生长效率": {
+        "name": "生长效率",
+        "question_count": 8,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "经济学概念"
+        ]
+    },
+    "算法": {
+        "name": "算法",
+        "question_count": 16,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "算法优化与分析"
+        ]
+    },
+    "放大电路设计": {
+        "name": "放大电路设计",
+        "question_count": 204,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "逻辑与概率理论": {
+        "name": "逻辑与概率理论",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "算子理论",
+            "概率论"
+        ],
+        "parents": [
+            "数据处理与编程知识"
+        ]
+    },
+    "中国古代文化": {
+        "name": "中国古代文化",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "文言",
+            "白酒知识",
+            "概念框架"
+        ],
+        "parents": []
+    },
+    "发酵化学": {
+        "name": "发酵化学",
+        "question_count": 34,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "化学与物理性质"
+        ]
+    },
+    "大曲知识": {
+        "name": "大曲知识",
+        "question_count": 18,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "编程知识"
+        ]
+    },
+    "商业与产业": {
+        "name": "商业与产业",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "企业类型与品牌",
+            "商业模式"
+        ],
+        "parents": [
+            "经济体系与发展"
+        ]
+    },
+    "方程理论": {
+        "name": "方程理论",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "电学原理": {
+        "name": "电学原理",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "数据处理与编程知识": {
+        "name": "数据处理与编程知识",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "程序设计范式",
+            "文件系统",
+            "编程知识",
+            "逻辑与概率理论"
+        ],
+        "parents": []
+    },
+    "企业类型与品牌": {
+        "name": "企业类型与品牌",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "商业与产业"
+        ]
+    },
+    "经济体系与发展": {
+        "name": "经济体系与发展",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "经济发展与增长",
+            "商业与产业"
+        ],
+        "parents": []
+    },
+    "合同法知识": {
+        "name": "合同法知识",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "合同法基本概念",
+            "合同法"
+        ],
+        "parents": [
+            "法律与政治制度"
+        ]
+    },
+    "中东与中国历史政治研究": {
+        "name": "中东与中国历史政治研究",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "中国历史",
+            "文化艺术"
+        ],
+        "parents": []
+    },
+    "有机与无机化学知识": {
+        "name": "有机与无机化学知识",
+        "question_count": 22,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "化学与物理性质"
+        ]
+    },
+    "白酒知识": {
+        "name": "白酒知识",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "老白干香型白酒",
+            "白酒评鉴知识",
+            "白酒香型"
+        ],
+        "parents": [
+            "中国古代文化"
+        ]
+    },
+    "数据处理与分析": {
+        "name": "数据处理与分析",
+        "question_count": 47,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "法律与责任": {
+        "name": "法律与责任",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "违约金",
+            "法律责任"
+        ],
+        "parents": []
+    },
+    "编程知识": {
+        "name": "编程知识",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "大曲知识",
+            "PHP编程知识"
+        ],
+        "parents": [
+            "数据处理与编程知识"
+        ]
+    },
+    "文言": {
+        "name": "文言",
+        "question_count": 9,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "中国古代文化"
+        ]
+    },
+    "违约金": {
+        "name": "违约金",
+        "question_count": 45,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "法律与责任"
+        ]
+    },
+    "生物与自然科学": {
+        "name": "生物与自然科学",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "材料科学与工程",
+            "循证医学与流行病学"
+        ],
+        "parents": []
+    },
+    "组织与评估设计": {
+        "name": "组织与评估设计",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "设计领域",
+            "研究设计"
+        ],
+        "parents": []
+    },
+    "话题": {
+        "name": "话题",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "电子学": {
+        "name": "电子学",
+        "question_count": 77,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "运算放大器与电路设计"
+        ]
+    },
+    "概率论": {
+        "name": "概率论",
+        "question_count": 41,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "逻辑与概率理论"
+        ]
+    },
+    "程序设计范式": {
+        "name": "程序设计范式",
+        "question_count": 50,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "数据处理与编程知识"
+        ]
+    },
+    "维度与降维": {
+        "name": "维度与降维",
+        "question_count": 1,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": []
+    },
+    "经济学概念": {
+        "name": "经济学概念",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "生长效率",
+            "经济活动",
+            "投资收益率"
+        ],
+        "parents": []
+    },
+    "个性化与文化适应": {
+        "name": "个性化与文化适应",
+        "question_count": 3,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "文化艺术"
+        ]
+    },
+    "泌尿系统与代谢疾病": {
+        "name": "泌尿系统与代谢疾病",
+        "question_count": 27,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "生物与环境设计"
+        ]
+    },
+    "平方试探策略": {
+        "name": "平方试探策略",
+        "question_count": 50,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "科学理论与方法"
+        ]
+    },
+    "老白干香型白酒": {
+        "name": "老白干香型白酒",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "课程理论与实践": {
+        "name": "课程理论与实践",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "教育研究与实践"
+        ]
+    },
+    "急救与应急管理": {
+        "name": "急救与应急管理",
+        "question_count": 32,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "化学与物理性质": {
+        "name": "化学与物理性质",
+        "question_count": 0,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [
+            "气体性质",
+            "有机与无机化学知识",
+            "性质与特性",
+            "随机变量及其性质",
+            "发酵化学"
+        ],
+        "parents": []
+    },
+    "算法设计与应用": {
+        "name": "算法设计与应用",
+        "question_count": 43,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "信息技术与管理"
+        ]
+    },
+    "物理学": {
+        "name": "物理学",
+        "question_count": 37,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "力学理论"
+        ]
+    },
+    "白酒香型": {
+        "name": "白酒香型",
+        "question_count": 28,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "白酒知识"
+        ]
+    },
+    "茶文化": {
+        "name": "茶文化",
+        "question_count": 36,
+        "downward_alpha": [
+            0,
+            0
+        ],
+        "upward_beta": [
+            0,
+            0
+        ],
+        "posterior1": null,
+        "posterior2": null,
+        "posterior3": null,
+        "children": [],
+        "parents": [
+            "文化艺术"
+        ]
+    }
+}
