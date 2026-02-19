@@ -124,7 +124,7 @@ def main():
     all_true_labels, all_pred_probs = [], []
     student_ids, questions, kcs, prior_probs, phis, epsilons, r_diffs = [], [], [], [], [], [], []
 
-    for student_idx, uid in enumerate(uids[:50]):
+    for student_idx, uid in enumerate(uids):
         print(f"Processing student {student_idx + 1}/{len(uids)}: {uid}")
         data = copy.deepcopy(datas[uid])
         data_size = train_size.get(uid, 0)
